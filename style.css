@@ -22,7 +22,7 @@ p {
 }
 
 .bg-image {
-  min-height: 150vh;
+  min-height: 70vh;
   width: 150vh;
   background-image: url(https://media.giphy.com/media/UXDTuJYkvSfy8rqoen/giphy.gif);
   background-size: cover;
